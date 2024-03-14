@@ -1,0 +1,20 @@
+{
+  "name": "arthera-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mikhail Radchenko",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "wagmi": "^2.5.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
